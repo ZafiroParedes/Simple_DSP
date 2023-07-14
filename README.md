@@ -1,4 +1,3 @@
-_In progress..._
 # Simple Digital Signal Processor
 _Spring 2023_
 
