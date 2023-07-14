@@ -31,6 +31,8 @@ The arithmetic Logic Computational Unit was programmed utilizing the diagram bel
 #### Barrell Shifter
 The barrell shifter contributes to computations by shifting a binary number a specific amount of times in a specific direction in one clock cycle which reduces the complexity of several computations. 
 
+![BS Diagram](https://github.com/ZafiroParedes/Simple_DSP/assets/91034132/b6d38164-ca7e-4a32-b7f1-bf256c0a4f1f)
+
 #### MAC
 Similar to the ALU, the Multiply and Accumulate Computational Unit has multiple registers and multiplexers to save values and complete operations. However, the MAC is limited to only multiple, add, and subtract operations. 
 
